@@ -76,7 +76,7 @@ horizontal_move_z: 3
 speed: 350
 mesh_min: 15,41 # These min/max points are with the above linked Eddy mount on the stock toolhead.
 mesh_max: 315,325
-probe_count: 50,50 #25,25   
+probe_count: 25,25   
 algorithm: bicubic
 bicubic_tension: 0.2
 move_check_distance:3
